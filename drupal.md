@@ -27,4 +27,4 @@ If we're modifying a `contrib` module and might want to contribute our changes b
 
 - [Bootstrap](https://www.drupal.org/project/bootstrap) -- uses the Bootstrap framework
 - [Omega](https://www.drupal.org/project/omega) -- uses Compass/SASS
-- [Zen](https://www.drupal.org/project/zen) -- uses Compass/SASS
+- [Zen](https://www.drupal.org/project/zen) -- uses Compass/SASS (not yet ready for D8)
